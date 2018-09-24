@@ -13,3 +13,8 @@ To write software that will (1) take in a breathing pattern file, (2) animate it
 
 
 ## Contents
+### breathing
+* This file contains the  Max/MSP files needed to run the software
+
+### instructions
+* Copy of the recorded instructions
